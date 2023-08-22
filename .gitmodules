@@ -1,0 +1,3 @@
+[submodule "SoFi-upstream"]
+	path = SoFi-upstream
+	url = git@github.com:fuzz-evaluator/SoFi-upstream.git
